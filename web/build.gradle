@@ -6,7 +6,7 @@ plugins {
 
 group = 'edu.depaul.cdm.se452.concept'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '12'
+sourceCompatibility = '14'
 
 configurations {
 	compileOnly {
